@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  BlackViewController.h
 //  PresentModallyCurrentContext
 //
 //  Created by Oisin Prendiville on 14/04/2016.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface BlackViewController : UIViewController
 
 @end
-
